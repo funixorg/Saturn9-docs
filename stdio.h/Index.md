@@ -1,6 +1,6 @@
 # Index (stdio.h)
 ## Functions
-- `printf`
-- `printf_serial`
-- `readline`
-- `clear_screen`
+- [printf](F_printf.md)
+- [printf_serial](F_printf_serial.md)
+- [readline](F_readline.md)
+- [clear_screen](F_clear_screen.md)
