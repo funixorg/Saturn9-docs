@@ -1,0 +1,21 @@
+# Index (stdlib.h)
+## Functions
+### Casting
+- `atoi`
+- `itoa`
+- `rgbtohex`
+### String
+- `reverse`
+- `strlen`
+- `strdup`
+- `strsplit`
+- `tok_split`
+- `to_upper`
+- `to_lower`
+- `strcmp`
+- `strncat`
+- `strcpy`
+### Formatting
+- `unix_to_time`
+- `formatBytes`
+- `format`
