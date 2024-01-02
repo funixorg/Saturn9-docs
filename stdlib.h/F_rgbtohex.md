@@ -26,4 +26,4 @@ uint32_t rgbtohex (
 
 ## Return value
 
-Returns the color in hexadecimal with the prefix `0x`, for example: `0xffff`
+Returns the rgb color in hexadecimal format, for example: `0xffff`
