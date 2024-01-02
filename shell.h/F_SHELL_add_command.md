@@ -42,7 +42,7 @@ In the **callback function**, it will be passed an **array of strings** containi
 
 ```C
 void custom_function(char **args) {
-	for (int i = 0; i < sizeof(cmdnargs); i++) {
+	for (unsigned i = 0; cmdnargs[i]; i++) {
 		printf("%s\n", cmdnargs[i]);
 	}
 }
